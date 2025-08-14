@@ -1,0 +1,9 @@
+id,name,starting_price,photo_url
+1,Plastic Drum,500,images/plastic_drum.png
+2,Plastic Chair,200,images/plastic_chair.png
+3,Plastic Table,300,images/plastic_table.png
+4,Office Table,500,images/office_table.png
+5,Long Table,500,images/long_table.png
+6,Office Cabinet,250,images/office_cabinet.png
+7,Bamboo Long Chair,600,images/bamboo_chair.png
+8,Organ (Brand: Yamaha),2000,images/yamaha_organ.png
